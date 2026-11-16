@@ -13,7 +13,7 @@ storage, controllers) is provided by the [wii-recomp runtime](https://github.com
 
 Tested with **RWSP8P** (Europe (PAL), revision 0).
 
-Plays the intro, the title (A+B) and the save-data menu. 52-55 fps in the tested menus on both machines (the game's own pacing there). Tested on Windows 11 (RTX 3070 Ti) and on a Linux mini PC (Ryzen 3 4350GE, Vega 6) with scripted inputs; nothing here says the game is playable to the end.
+Plays the 100 m at 60 fps, no graphics errors seen. Tested on Windows 11 by playing into the first real scene; on the Linux mini PC through the menus. Nothing here says the game is playable to the end.
 
 Only what is written here has been tested. It has not been played to the end. Other regions
 or revisions may work but are untested.
@@ -69,7 +69,7 @@ Wii Remote: mouse points, Enter is A, Backspace is B (press both at the title).
 ## How it's made
 
 - Runtime: [https://github.com/SirWinstonChurchillTheFirst/wii-recomp](https://github.com/SirWinstonChurchillTheFirst/wii-recomp) (branch `windows-port`, tested at
-  `365a8af5ab6f`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
+  `f26aef3318ad`), a fork of [Zontex/wii-recomp](https://github.com/Zontex/wii-recomp) with
   Windows support and the fixes this game needed. GPL-3.0-or-later.
 - Hardware behaviour follows [Dolphin](https://dolphin-emu.org) where noted in the runtime's
   CREDITS.md.
