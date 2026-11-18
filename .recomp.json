@@ -32,5 +32,5 @@
       "url": "https://ko-fi.com/krogger"
     }
   ],
-  "notes": "Plays the 100 m at 60 fps, no graphics errors seen. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: the 100 m from line-up to the awards ceremony, 55.3 fps). Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
+  "notes": "Plays the 100 m at 60 fps, no graphics errors seen. Tested on Windows 11 and on the Linux mini PC by playing into the first real scene (mini PC: the 100 m from line-up to the awards ceremony, 55.3 fps). With the current runtime version the game was started and run through its menus again on the mini PC (no stops, frame times as before); the scene named here was played with the version before. Nothing here says the game is playable to the end. Built with AI assistance (Claude)."
 }
